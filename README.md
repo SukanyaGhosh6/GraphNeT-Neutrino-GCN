@@ -1,7 +1,3 @@
-**Graph Neural Network for Neutrino Event Reconstruction**
-
-#### Overview
-
 This project implements a GNN-based approach for identifying and reconstructing neutrino events in detector simulations. It uses spatial-temporal data captured in neutrino detectors and maps it into a graph structure to predict key physics properties.
 
 #### Features
