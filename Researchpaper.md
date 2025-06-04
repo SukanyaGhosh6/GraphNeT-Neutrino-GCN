@@ -45,8 +45,7 @@ for epoch in range(epochs):
 
 ## 8. Dataset Acquisition
 
-We simulate synthetic IceCube-like datasets using the [IceCube Neutrino Observatory’s open software tools](https://github.com/icecube). Due to recent changes, public IceCube datasets are no longer directly downloadable, but one can generate events using IceTray or NuGen.
-
+We simulate synthetic IceCube-like datasets using the [IceCube Neutrino Observatory’s open software tools](https://github.com/icecube). 
 ## 9. Architecture
 
 * **Input Features**: `x = [x, y, z, t, charge]`
